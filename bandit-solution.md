@@ -21,7 +21,7 @@ exit
 
 
 --> Les mots de passe séront de forme: NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
-## Les Solutions (bandit) de niveau 0 -- Niveau 12
+## Les Solutions (bandit) de niveau 0 -- Niveau 34 (...)
 ------
 
 ### Niveau 0:
